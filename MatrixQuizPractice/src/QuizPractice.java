@@ -19,6 +19,7 @@ public class QuizPractice
 							}
 					}
 				
+				
 				for(int row = 0; row < 6; row++)
 					{
 						for(int col = 0; col < 6; col++)
@@ -27,6 +28,7 @@ public class QuizPractice
 							}
 						System.out.println();
 					}
+				
 				
 				int highestNum = 0;
 				for(int row = 0; row < matrix.length; row++) 
